@@ -31,4 +31,10 @@ public class Main {
   public static void main(String[] args) {
     System.out.println("Hello World");
   }
-}
+<table>
+  <tr>
+    <td>Emil</td>
+    <td>Tobias</td>
+    <td>Linus</td>
+  </tr>
+</table>}
